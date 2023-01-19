@@ -20,7 +20,8 @@
 > * 데이터수: 약 1,000여 채용공고
 > * feature: 기술스택, 직군명, 자격요건, 주요업무, 우대사항, 회사명, 로고이미지, 채용공고 웹페이지, 경력사항
 
-<iframe width="1163" height="651" src="https://www.youtube.com/embed/4yVs88qbXwI" title="cat1 faster RCNN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
 
 ### 4. 분석 기법
 > 4.1 TF-IDF (Term Frequency - Inverse Document Frequency)
