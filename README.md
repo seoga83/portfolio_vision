@@ -20,8 +20,7 @@
 > * 데이터수: 약 1,000여 채용공고
 > * feature: 기술스택, 직군명, 자격요건, 주요업무, 우대사항, 회사명, 로고이미지, 채용공고 웹페이지, 경력사항
 
-<video muted autoplay loop>
-  <source src="/etc/video/cat1_yolov5.mp4" type="video/mp4">
+<video src="/etc/video/cat1_yolov5.mp4">
 </video>
 
 ### 4. 분석 기법
