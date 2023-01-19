@@ -20,6 +20,10 @@
 > * 데이터수: 약 1,000여 채용공고
 > * feature: 기술스택, 직군명, 자격요건, 주요업무, 우대사항, 회사명, 로고이미지, 채용공고 웹페이지, 경력사항
 
+<video muted autoplay loop>
+  <source src="/etc/video/cat1_yolov5.mp4" type="video/mp4">
+</video>
+
 ### 4. 분석 기법
 > 4.1 TF-IDF (Term Frequency - Inverse Document Frequency)
 > * 문서 집합에서 한 단어가 얼마나 중요한지를 수치적으로 나타낸 가중치
