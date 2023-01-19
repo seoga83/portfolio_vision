@@ -53,7 +53,7 @@
 ### 5. Object Detector 영상 재생
 
 [![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
-[![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/embed/9WCCl-WMZZM)
+[![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://www.youtube.com/embed/9WCCl-WMZZM)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="60%" height="60%"></img><br/>
 ### 6. 프로젝트 회고
