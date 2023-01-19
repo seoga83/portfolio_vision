@@ -19,19 +19,32 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/cat_dataset.png" width="90%" height="90%"></img><br/>
 
-### 3. Object Detector 모델링
+### 3. Object Detector 모델
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/detector_model.png" width="90%" height="90%"></img><br/>
+> 3.1 2-Stage Detector
+> * Regional Proposal과 Classification이 순차적으로 이루어진다.
+> * 기존에는 이미지에서 object detection을 위해 sliding window 방식을 이용했었다. 이 방식은 이미지에서 모든 영역을 다양한 크기의 window로 탐색하는 것이다.
+> * 비효율성을 개선하기 위해 ‘물체가 있을만한‘ 영역을 빠르게 찾아내는 알고리즘이다. Regional proposal은 object의 위치를 찾는 localization 문제이다.
+> * 2-stage detector에서는 classification과 localization 문제를 순차적으로 해결한다.
+
+> 3.2 1-Stage Detector
+> * 2-stage detector와 반대로 regional proposal와 classification이 동시에 이루어진다.
+> * Classification과 localization 문제를 동시에 해결하는 방법이다.
+> * 1-stage detector는 비교적 빠르지만 정확도가 낮고, 2-stage detector는 비교적 느리지만 정확도가 높다.
 
 [![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
 [![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/9WCCl-WMZZM)
 
-### 4. 분석 기법
-> 4.1 TF-IDF (Term Frequency - Inverse Document Frequency)
-> * 문서 집합에서 한 단어가 얼마나 중요한지를 수치적으로 나타낸 가중치
-> * 한 문서에서 단어가 등장하는 빈도가 높을수록 커지고, 해당 단어를 포함하는 문서가 많을수록 반비례하여 작아진다.
+### 4. 모델링 학습 및 성능 평가
+> 4.1 Faster RCNN (2-stage Detector)
+> * Batch size : 2
+> * Epoch : 12
+> * Optimizer : SGD
+> * Loss : Cross Entropy
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/tfidf.png" width="40%" height="40%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/faster_rcnn_eval.png" width="40%" height="40%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/faster_rcnn_detect.png" width="40%" height="40%"></img><br/>
 > 4.2 KNN (K-Nearest Neighbor) 알고리즘
 > * 거리 기반 분류분석 머신러닝 알고리즘
 > * 새로운 데이터를 입력 받았을 때 이 데이터와 가장 근접한 데이터들의 종류가 무엇인지 확인 및 분류
