@@ -40,33 +40,22 @@
 > * Optimizer : SGD
 > * Loss : Cross Entropy
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/faster_rcnn_detect.png" width="40%" height="40%"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/faster_rcnn_eval.png" width="40%" height="40%"></img><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/faster_rcnn_detect.png" width="40%" height="40%"></img><br/>
 > 4.2 YOLOV5 (1-stage Detector)
 > * Batch size : 2
 > * Epoch : 30
 > * Optimizer : SGD
 > * Loss : Cross Entropy
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_detect.png" width="40%" height="40%"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_eval.png" width="40%" height="40%"></img><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_detect.png" width="40%" height="40%"></img><br/>
-> 4.2 KNN (K-Nearest Neighbor) 알고리즘
-> * 거리 기반 분류분석 머신러닝 알고리즘
-> * 새로운 데이터를 입력 받았을 때 이 데이터와 가장 근접한 데이터들의 종류가 무엇인지 확인 및 분류
-
+### 5. Object Detector 영상 재생
 
 [![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
 [![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/9WCCl-WMZZM)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/knn.png" width="40%" height="40%"></img><br/>
-> 4.3 코사인 유사도 (Cosine Similarity)
-> * 두 벡터 간의 코사인 각도를 이용하여 구할 수 있는 두 벡터의 유사도
-> * 문서 단어 행렬이나 TF-IDF 행렬을 통해서 문서의 유사도를 구하는 경우 각각의 특징 벡터를 이용하여 연산
-
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/cosine.png" width="70%" height="70%"></img><br/>
-### 5. 웹 어플리케이션 구현
-> * 웹페이지 접속 주소: https://cp1-datajob.herokuapp.com/
-
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="40%" height="40%"></img><br/>
 ### 6. 프로젝트 회고
 > * TF-IDF, 코사인 유사도는 데이터 빈도를 통해서 중요도를 판단하기 때문에 문맥을 이해하지 못하는 한계가 있으므로 딥러닝 모델을 통한 모델링 적용할 필요성
 > * 데이터 직군 뿐만 아니라 범위를 넓혀서 모든 직군에 대한 데이터 처리 수행 필요
