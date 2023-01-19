@@ -16,10 +16,8 @@
 > * colab, ultralytics, OpenCV, Python
 
 ### 2. 데이터셋
-> * 출처: 채용사이트 'wanted' Web API
-> * 데이터수: 약 1,000여 채용공고
-> * feature: 기술스택, 직군명, 자격요건, 주요업무, 우대사항, 회사명, 로고이미지, 채용공고 웹페이지, 경력사항
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/cat_dataset.png" width="90%" height="90%"></img><br/>
 
 [![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
 [![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/9WCCl-WMZZM)
