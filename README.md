@@ -55,11 +55,11 @@
 [![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
 [![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/9WCCl-WMZZM)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="40%" height="40%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="60%" height="60%"></img><br/>
 ### 6. 프로젝트 회고
-> * TF-IDF, 코사인 유사도는 데이터 빈도를 통해서 중요도를 판단하기 때문에 문맥을 이해하지 못하는 한계가 있으므로 딥러닝 모델을 통한 모델링 적용할 필요성
-> * 데이터 직군 뿐만 아니라 범위를 넓혀서 모든 직군에 대한 데이터 처리 수행 필요
-> * 사용자 로그 기록 등을 활용한 추천시스템 필요
+> * Detection 각 모델의 특징을 확인해 볼 수 있어서 좋았다. 
+> * 저장된 동영상 파일이 아닌 실시간 촬영 중인 영상에 대해 모델을 적용해볼 수 있는 기회가 있었으면 좋겠다.
+
 ---
 ## portfolio 3. 중고차 외관 손상 인식
 ### 1. 프로젝트 개요
