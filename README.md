@@ -19,6 +19,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/cat_dataset.png" width="90%" height="90%"></img><br/>
 
+### 3. Object Detector 모델링
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/detector_model.png" width="90%" height="90%"></img><br/>
+
 [![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
 [![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/9WCCl-WMZZM)
 
