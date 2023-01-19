@@ -33,9 +33,6 @@
 > * Classification과 localization 문제를 동시에 해결하는 방법이다.
 > * 1-stage detector는 비교적 빠르지만 정확도가 낮고, 2-stage detector는 비교적 느리지만 정확도가 높다.
 
-[![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
-[![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/9WCCl-WMZZM)
-
 ### 4. 모델링 학습 및 성능 평가
 > 4.1 Faster RCNN (2-stage Detector)
 > * Batch size : 2
@@ -45,9 +42,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/faster_rcnn_eval.png" width="40%" height="40%"></img><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/faster_rcnn_detect.png" width="40%" height="40%"></img><br/>
+> 4.2 YOLOV5 (1-stage Detector)
+> * Batch size : 2
+> * Epoch : 30
+> * Optimizer : SGD
+> * Loss : Cross Entropy
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_eval.png" width="40%" height="40%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_detect.png" width="40%" height="40%"></img><br/>
 > 4.2 KNN (K-Nearest Neighbor) 알고리즘
 > * 거리 기반 분류분석 머신러닝 알고리즘
 > * 새로운 데이터를 입력 받았을 때 이 데이터와 가장 근접한 데이터들의 종류가 무엇인지 확인 및 분류
+
+
+[![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
+[![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://youtu.be/9WCCl-WMZZM)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/knn.png" width="40%" height="40%"></img><br/>
 > 4.3 코사인 유사도 (Cosine Similarity)
