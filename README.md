@@ -79,13 +79,9 @@
 > 1.4 개발 환경
 > * PixelAnnotationTool, colab, Pytorch, OpenCV, matplotlib
 
-### 2. 프로젝트 구조
-> 2.1 프로젝트 절차
+### 2. 프로젝트 절차
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/pf2_flow.png" width="50%" height="50%"></img><br/>
-> 2.2 프로젝트 수행 일정
-
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/pf2_schedule.png" width="90%" height="90%"></img><br/>
 ### 3. 데이터셋
 > 3.1 PixelAnnotationTool
 
