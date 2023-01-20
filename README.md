@@ -75,9 +75,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_detect.png" width="40%" height="40%"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_eval.png" width="40%" height="40%"></img><br/>
 ### 5. Object Detector 영상 재생
-
-[![Video Label](https://i9.ytimg.com/vi_webp/4yVs88qbXwI/mqdefault.webp?sqp=CIylop4G&rs=AOn4CLCfGeUdMBgANzUziC7k-4sWjrd5Rw)](https://www.youtube.com/embed/4yVs88qbXwI)
-[![Video Label](https://i9.ytimg.com/vi_webp/9WCCl-WMZZM/mqdefault.webp?sqp=CLyuop4G&rs=AOn4CLCqlkMWKDqdidHfIzSfKMSwH2sDhg)](https://www.youtube.com/embed/9WCCl-WMZZM)
+https://i.ytimg.com/an_webp/9WCCl-WMZZM/mqdefault_6s.webp?du=3000&sqp=CIeUp54G&rs=AOn4CLA_AbRH69UjZA83moNrp8HrzymOZA
+[![Video Label](https://i.ytimg.com/an_webp/4yVs88qbXwI/mqdefault_6s.webp?du=3000&sqp=CNi0p54G&rs=AOn4CLAw1mwz6htlPSZUso68jHopgBAI2g)](https://www.youtube.com/embed/4yVs88qbXwI)
+[![Video Label](https://i.ytimg.com/an_webp/9WCCl-WMZZM/mqdefault_6s.webp?du=3000&sqp=CIeUp54G&rs=AOn4CLA_AbRH69UjZA83moNrp8HrzymOZA)](https://www.youtube.com/embed/9WCCl-WMZZM)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="70%" height="70%"></img><br/>
 ### 6. 프로젝트 회고
