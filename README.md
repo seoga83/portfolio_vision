@@ -96,7 +96,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[![Video Label](/etc/img/cat_faster_img.png)](https://www.youtube.com/embed/4yVs88qbXwI)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Video Label](/etc/img/cat_yolo_img.png)](https://www.youtube.com/embed/9WCCl-WMZZM)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="90%" height="90%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="95%" height="95%"></img><br/>
 ### 6. 프로젝트 회고
 > * Detector 모델 각각의 특징을 확인해 볼 수 있어서 좋았다.
 > * 저장된 동영상 파일이 아닌 실시간 촬영 영상에 대한 모델 적용을 해보지 못한 아쉬움이 있었다.
