@@ -94,7 +94,7 @@
 ### 5. Object Detector 영상 재생
 
 &nbsp;&nbsp;&nbsp;[![Video Label](/etc/img/cat_faster_img.png)](https://www.youtube.com/embed/4yVs88qbXwI)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Video Label](/etc/img/cat_yolo_img.png)](https://www.youtube.com/embed/9WCCl-WMZZM)
+[![Video Label](/etc/img/cat_yolo_img.png)](https://www.youtube.com/embed/9WCCl-WMZZM)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="85%" height="85%"></img><br/>
 ### 6. 프로젝트 회고
