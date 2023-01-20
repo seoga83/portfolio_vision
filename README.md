@@ -16,15 +16,24 @@
 
 ### 2. 데이터셋
 > 2.1 손동작
+> * train dataset : 240
+> * val dataset : 36
+> * class : 4 ('up', 'down', 'left', 'right')
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_dataset.png" width="50%" height="50%"></img><br/>
 > 2.2 눈동자
+> * train dataset : 10,000
+> * val dataset : 1,600
+> * class : 4 ('close', 'forward', 'left', 'right')
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_dataset.png" width="50%" height="50%"></img><br/>
 ### 3. YOLOV5 - classify 모델
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_classify.png" width="70%" height="70%"></img><br/>
 ### 4. 모델링 학습 및 성능 평가
+> 4.1 손동작
+
+> 4.2 눈동자
 
 ### 5. 프로젝트 회고
 
