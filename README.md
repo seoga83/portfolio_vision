@@ -93,7 +93,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_eval.png" width="40%" height="40%"></img><br/>
 ### 5. Object Detector 영상 재생
 
-&nbsp;&nbsp;&nbsp;[![Video Label](/etc/img/cat_faster_img.png)](https://www.youtube.com/embed/4yVs88qbXwI)
+[![Video Label](/etc/img/cat_faster_img.png)](https://www.youtube.com/embed/4yVs88qbXwI)
 [![Video Label](/etc/img/cat_yolo_img.png)](https://www.youtube.com/embed/9WCCl-WMZZM)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="85%" height="85%"></img><br/>
