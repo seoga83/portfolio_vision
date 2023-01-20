@@ -79,7 +79,7 @@
 &nbsp;&nbsp;&nbsp;[![Video Label](https://i.ytimg.com/an_webp/4yVs88qbXwI/mqdefault_6s.webp?du=3000&sqp=CNi0p54G&rs=AOn4CLAw1mwz6htlPSZUso68jHopgBAI2g)](https://www.youtube.com/embed/4yVs88qbXwI)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Video Label](https://i.ytimg.com/an_webp/9WCCl-WMZZM/mqdefault_6s.webp?du=3000&sqp=CIeUp54G&rs=AOn4CLA_AbRH69UjZA83moNrp8HrzymOZA)](https://www.youtube.com/embed/9WCCl-WMZZM)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="80%" height="80%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="85%" height="85%"></img><br/>
 ### 6. 프로젝트 회고
 > * Detector 모델 각각의 특징을 확인해 볼 수 있어서 좋았다.
 > * 저장된 동영상 파일이 아닌 실시간 촬영 영상에 대한 모델 적용을 해보지 못한 아쉬움이 있었다.
