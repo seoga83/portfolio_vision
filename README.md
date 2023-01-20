@@ -30,10 +30,12 @@
 ### 4. 모델링 학습 및 성능 평가
 > 4.1 손동작
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_val.png" width="50%" height="50%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_val.png" width="50%" height="50%"></img>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_acc.png" width="50%" height="50%"></img><br/>
 > 4.2 눈동자
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_val.png" width="50%" height="50%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_val.png" width="50%" height="50%"></img>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_acc.png" width="50%" height="50%"></img><br/>
 ### 5. 프로젝트 회고
 
 ---
