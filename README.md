@@ -23,11 +23,10 @@
 
 ### 3. YOLOV5 - classify 모델
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_classify.png" width="50%" height="50%"></img><br/>
 ### 4. 모델링 학습 및 성능 평가
 
-### 5. EfficientNet 모델
-
-### 6. 프로젝트 회고
+### 5. 프로젝트 회고
 
 ---
 ## portfolio 2. 길고양이 TNR(중성화사업) 위한 Object Detector
