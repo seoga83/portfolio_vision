@@ -37,6 +37,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_val.png" width="50%" height="50%"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_acc.png" width="40%" height="40%"></img><br/>
 ### 5. 프로젝트 회고
+> * 한정된 데이터셋 내에서는 데이터수의 많고 적음에 상관없이 높은 성능 지표를 보인다.
+> * 새로운 데이터에 대한 예측은 다소 틀릴 수 있음을 알 수 있었다.
+> * 많은 경우의 수의 데이터셋을 확보하여 세밀한 분류 작업을 진행해보면 좋을 것 같다.
 
 ---
 ## portfolio 2. 길고양이 TNR(중성화사업) 위한 Object Detector
