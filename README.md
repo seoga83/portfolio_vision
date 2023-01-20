@@ -93,8 +93,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_eval.png" width="40%" height="40%"></img><br/>
 ### 5. Object Detector 영상 재생
 
-&nbsp;&nbsp;&nbsp;[![Video Label](https://i.ytimg.com/an_webp/4yVs88qbXwI/mqdefault_6s.webp?du=3000&sqp=CNi0p54G&rs=AOn4CLAw1mwz6htlPSZUso68jHopgBAI2g)](https://www.youtube.com/embed/4yVs88qbXwI)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Video Label](https://i.ytimg.com/an_webp/9WCCl-WMZZM/mqdefault_6s.webp?du=3000&sqp=CJm3qZ4G&rs=AOn4CLC0nHbfLVdqke7ou-AZVGQ3Ad9sng)](https://www.youtube.com/embed/9WCCl-WMZZM)
+&nbsp;&nbsp;&nbsp;[![Video Label](/etc/img/cat_faster_img.png)](https://www.youtube.com/embed/4yVs88qbXwI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Video Label](/etc/img/cat_yolo_img.png)](https://www.youtube.com/embed/9WCCl-WMZZM)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="85%" height="85%"></img><br/>
 ### 6. 프로젝트 회고
