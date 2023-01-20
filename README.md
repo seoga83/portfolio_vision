@@ -23,7 +23,7 @@
 
 ### 3. YOLOV5 - classify 모델
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_classify.png" width="50%" height="50%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_classify.png" width="70%" height="70%"></img><br/>
 ### 4. 모델링 학습 및 성능 평가
 
 ### 5. 프로젝트 회고
