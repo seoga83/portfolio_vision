@@ -95,6 +95,8 @@
 
 [![Video Label](/etc/img/cat_faster_img.png)](https://www.youtube.com/embed/4yVs88qbXwI)
 [![Video Label](/etc/img/cat_yolo_img.png)](https://www.youtube.com/embed/9WCCl-WMZZM)
+<a href="https://www.youtube.com/embed/4yVs88qbXwI" target="_blank"><img src="/etc/img/cat_faster_img.png" width="40%" height="40%"></img></a>
+<a href="https://www.youtube.com/embed/9WCCl-WMZZM" target="_blank"><img src="/etc/img/cat_yolo_img.png" width="40%" height="40%"></img></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/video_anal.png" width="85%" height="85%"></img><br/>
 ### 6. 프로젝트 회고
