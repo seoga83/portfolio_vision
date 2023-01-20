@@ -15,6 +15,11 @@
 > * colab, Python
 
 ### 2. 데이터셋
+> 2.1 손동작
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_dataset.png" width="90%" height="90%"></img><br/>
+> 2.2 눈동자
+
 
 ### 3. YOLOV5 - classify 모델
 
