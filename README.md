@@ -39,10 +39,10 @@
 ### 5. Predict Result (Test data)
 > 5.1 손동작
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_predict.png" width="40%" height="40%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_predict.png" width="100%" height="40%"></img><br/>
 > 5.2 눈동자
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_predict.png" width="40%" height="40%"></img><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_predict.png" width="100%" height="40%"></img><br/>
 ### 6. 프로젝트 회고
 > * 한정된 데이터셋 내에서는 데이터수의 많고 적음에 상관없이 높은 성능 지표를 보인다.
 > * 새로운 데이터에 대한 예측은 다소 틀릴 수 있음을 알 수 있었다.
