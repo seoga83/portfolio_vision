@@ -25,6 +25,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_dataset.png" width="50%" height="50%"></img><br/>
 ### 3. YOLOV5 - classify 모델
+> * YOLOV5 모델을 이용한 인공지능 분류 모델은 기존의 이미지 분류 모델인 EfficientNet, YOLOV5 등보다 성능이 우수함에도 모델 활용 사례가 부족한 실정
+> * 네트워크의 크기에 따라 v5n, v5s, v5m, v5l, v5x로 나뉘고, 네트워크 크기가 클수록 속도가 느린 대신 정확도가 높음
+> * 가장 큰 장점은 용량이 상대적으로 적으며 V4와 유사한 성능을 가짐
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_classify.png" width="90%" height="90%"></img><br/>
 ### 4. 모델링 학습 및 성능 평가
