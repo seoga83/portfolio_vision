@@ -29,10 +29,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/yolov5_classify.png" width="90%" height="90%"></img><br/>
 ### 4. 모델링 학습 및 성능 평가
 > 4.1 손동작
+> * epoch : 30
+> * optimizer : Adam
+> * loss function : Cross entropy
+> * top1 accuracy : 1.0
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_val.png" width="50%" height="50%"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/finger_acc.png" width="40%" height="40%"></img><br/>
 > 4.2 눈동자
+> * epoch : 30
+> * optimizer : Adam
+> * loss function : Cross entropy
+> * top1 accuracy : 0.9912
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_val.png" width="50%" height="50%"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="/etc/img/eye_acc.png" width="40%" height="40%"></img><br/>
